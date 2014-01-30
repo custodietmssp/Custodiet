@@ -1,0 +1,37 @@
+# data file for sosetup script
+
+# ======================
+# trun debugging on
+DEBUG=1
+
+# ======================
+# setup type
+# this should be left at "Advanced Setup"
+SETUP=Advanced Setup
+
+# ======================
+# which components of SO should be run
+# leave this at "Standalone" to run both admin interface and sensor
+COMPONENTS=Standalone
+
+# ======================
+# Sguil client account name
+SGUIL_CLIENT_USERNAME=smbbox
+
+# ======================
+# snorby e-mail address & account name
+SNORBY_EMAIL=dlseyer@gmail.com
+
+# ======================
+# squil client password
+SGUIL_CLIENT_PASSWORD_1=689tgdw
+
+# ======================
+# Suricata or Snort
+IDS_ENGINE=Suricata
+
+# ======================
+# Emerging Threats GPL (the free rule set)
+IDS_RULESET=ETGPL
+
+# ======================

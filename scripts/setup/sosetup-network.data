@@ -1,0 +1,35 @@
+# data file for sosetup-network script
+
+# ======================
+# management interface
+# should be eth0
+MGMT_INTERFACE=eth0
+
+# ======================
+# IP address
+ADDRESS=172.22.22.70
+
+# ======================
+# subnet mask
+# you shouldn't need to change this
+NETMASK=255.255.255.0
+
+# ======================
+# gateway
+GATEWAY=172.22.22.254
+
+# ======================
+# DNS server
+NAMESERVER=10.11.12.53
+
+# ======================
+# local domian name
+DOMAIN=dlmc
+
+# ======================
+# monitor interface
+# should be eth1
+MON_INTERFACES=eth1
+
+# ======================
+# fin

@@ -1,0 +1,34 @@
+#!/bin/sh
+
+# data file for smbbox-setup.sh script
+
+
+# =====================================
+# additional utilities to install
+
+# build-essential
+list_utils="
+dkms
+gcc
+gnome-terminal
+gpm
+meld
+molly-guard
+nautilus
+tree
+vim
+vim-gnome
+"
+
+# we will create these admin accounts
+#+ the preface "gr" will be prepended to these for the actual account name
+list_accounts="
+david
+billy
+joshua
+"
+
+hash_david='$6$FUub34mZ$31ZtMlmJmmFfB0.YFxxiS7LleXgZmw6J8RqW9y06VCEpds1TQxCjYR4dh7u0WMfNRpXSiKpO5f4HMonPTOeFc.'
+hash_billy='$6$gpglPJ6G$ULhRYiuVjy0SNpS2bJ9KqKqgMEV1l3rf9P/wKSvYYlGRq.6ORJgevJSKemMrlopydMPLTDeOeba8SuA/ZLAt./'
+hash_joshua='$6$l9eez.Fs$I6.fGGF6m3mkxOCXATq4tHzQGyWATnVWy0UO2kKluV1mAbZR7i6o2sWx.DTGXVH0mKb7q4kP5ArlkL1LHjGv7.'
+
