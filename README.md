@@ -24,7 +24,7 @@ Set up your own MSSP (Turn key) <br>
 Build it for your office, your house, or the clients you find and profit from.<br>
 Contribute back to the Community (scripts, features, etc)  Get Prizes/Bounties!<br>
 Build your own business. Side or primary, your choice. <br>
-Be in charge of your destiny!<br>
+<i>Be in charge of your destiny!</i><br>
 
 <b>Join us!
 Sign up at http://lists.custodiet.org/listinfo.cgi/custodiet-dev-custodiet.org 
