@@ -1,0 +1,12 @@
+[submodule "Doc"]
+	path = Doc
+	url = https://github.com/custodietmssp/Custodiet-Docs.git
+[submodule "Build"]
+	path = Build
+	url = https://github.com/custodietmssp/Custodiet-Build.git
+[submodule "Cloud"]
+	path = Cloud
+	url = https://github.com/custodietmssp/Custodiet-Cloud.git
+[submodule "Customer"]
+	path = Customer
+	url = https://github.com/custodietmssp/Custodiet-CPE.git
